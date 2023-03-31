@@ -1,7 +1,7 @@
 ### Hi there, my name is Jay Cabasag
 
 #### I'm a Software engineer and working as a front end engineer here in the Philippines
-_I also have other github account [Jay Cabasag](https://github.com/JayCabasag99) this account is where I often push all my commits._
+_I also have other github account [JayCabasag99](https://github.com/JayCabasag99) this account is where I often push all my commits._
 
 I love programming. I know we sometimes hate it, but what I love about programming is that it unlocks infinite knowledge in this modern era. It's like exploring an endless dungeon of ideas, competing with the world bosses in this industry, and trying to achieve what legendary developers have accomplished.
 
