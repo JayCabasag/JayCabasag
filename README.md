@@ -1,10 +1,11 @@
 ### Hi there, my name is Jay Cabasag
 
-#### I'm a Software engineer and working as a front end engineer here in the Philippines
-_I also have other github account [JayCabasag99](https://github.com/JayCabasag99) this account is where I often push all my commits._
+#### I'm a software engineer and front-end engineer here in the Philippines
 
-I love programming. I know we sometimes hate it, but what I love about programming is that it unlocks infinite knowledge in this modern era. It's like exploring an endless dungeon of ideas, competing with the world bosses in this industry, and trying to achieve what legendary developers have accomplished.
+_On top of that, I also have another GitHub account [JayCabasag99](https://github.com/JayCabasag99), which is where I frequently push my commits._
 
-Regarding me, at the moment, I am particularly interested in web development. I often use `JavaScript/TypeScript` to develop web applications, and most of the time, I use `Node.js` as my backend when I'm developing a full-stack application. I also use other programming languages like `Java` and `Go`. I usually use `Java` for Android application development, but I'm planning to use it for building a backend or RESTful API. `Go` is the language that I love the most. I don't know why, but I just love it. Maybe it's because I came from a high-level programming language thats lacks in different aspects that can be solved with a compiled language like Go.
+I love programming. I know we sometimes hate it, but programming unlocks infinite knowledge in this modern era. It's like exploring an endless dungeon of ideas, competing with world bosses in this industry. It's also like trying to achieve what legendary developers have accomplished.
+
+About me, at the moment, I am particularly interested in web development. I often utilize `JavaScript/TypeScript` to develop web applications. I usually utilize `Node.js` as my backend when I'm developing a full-stack application. I also use other programming languages like `Java` and `Go`. I usually use `Java` for Android application development, but I plan to build a backend or RESTful API. `Go` is the language I love. I don't know why, but I just love it. Maybe it's because I came from a high-level programming language that lacks different aspects that can be solved with a compiled language like Go.
 
 Wanna chat or connect? Just send me an email at [Jay Cabasag](https://mail.google.com/mail/?view=cm&to=jaycabasag1999@gmail.com)
