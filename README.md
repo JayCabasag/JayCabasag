@@ -4,6 +4,10 @@
 
 _On top of that, I also have another GitHub account [JayCabasag99](https://github.com/JayCabasag99), which is where I frequently push my commits._
 
-About me, at the moment, I am particularly interested in web development. I often utilize `JavaScript/TypeScript` to develop web applications. I use `JavaScript/TypeScript` when I'm developing a web application starting from backend up to frontend developments. I use different frameworks for developing web applications like `NestJS`, `NodeJS`, `ExpressJS` for backend and `React JS`, `Next JS`, `Angular` for frontend. I am also knowledgeable with various databases like `MySQL`, `PostgreSQL`, `Firebase firestore` and `MongoDB`.
+I am currently focused on web development and specialize in utilizing JavaScript/TypeScript for building robust and scalable web applications. I am proficient in both backend and frontend development, employing frameworks such as NestJS, NodeJS, ExpressJS, React JS, Next JS, and Angular.
+
+My expertise extends to working with diverse databases, including MySQL, PostgreSQL, Firebase Firestore, and MongoDB. By leveraging my skills in these technologies, I am able to deliver end-to-end solutions for web development projects.
+
+Feel free to explore my GitHub profile for examples of my work and to collaborate on exciting web development ventures.
 
 Wanna chat or connect? Just send me an email at [Jay Cabasag](https://mail.google.com/mail/?view=cm&to=jaycabasag1999@gmail.com)
